@@ -1,7 +1,5 @@
 import java.util.Scanner;
 
-/* Are you a "RETARD" test seen on Shameless S04E07  */
-
 public class RetardTest{
 	
 	private static boolean yesNo(String input){
