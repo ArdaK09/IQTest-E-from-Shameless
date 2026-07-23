@@ -1,12 +1,8 @@
 import java.util.Scanner;
 
-<<<<<<< HEAD
 /* "Are you a RETARD" test seen on Shameless S04E07  */
 
 public class IQTest{
-=======
-public class RetardTest{
->>>>>>> ac553cc93893fe1c8c1e9b0324335b359f74e40b
 	
 	private static boolean yesNo(String input){
 		if (input == null) throw new IllegalArgumentException();
